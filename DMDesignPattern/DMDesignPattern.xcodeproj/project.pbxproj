@@ -13,6 +13,7 @@
 		9EE5A89620C81B9200FBF871 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EE5A89520C81B9200FBF871 /* Assets.xcassets */; };
 		9EE5A89920C81B9200FBF871 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EE5A89720C81B9200FBF871 /* LaunchScreen.storyboard */; };
 		9EE5A89C20C81B9200FBF871 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EE5A89B20C81B9200FBF871 /* main.m */; };
+		9EE5A8A420C81CAF00FBF871 /* DMOne.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EE5A8A320C81CAF00FBF871 /* DMOne.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		9EE5A89820C81B9200FBF871 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9EE5A89A20C81B9200FBF871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9EE5A89B20C81B9200FBF871 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9EE5A8A220C81CAF00FBF871 /* DMOne.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DMOne.h; sourceTree = "<group>"; };
+		9EE5A8A320C81CAF00FBF871 /* DMOne.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DMOne.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				9EE5A88D20C81B9100FBF871 /* AppDelegate.m */,
 				9EE5A88F20C81B9100FBF871 /* ViewController.h */,
 				9EE5A89020C81B9100FBF871 /* ViewController.m */,
+				9EE5A8A220C81CAF00FBF871 /* DMOne.h */,
+				9EE5A8A320C81CAF00FBF871 /* DMOne.m */,
 				9EE5A89220C81B9100FBF871 /* Main.storyboard */,
 				9EE5A89520C81B9200FBF871 /* Assets.xcassets */,
 				9EE5A89720C81B9200FBF871 /* LaunchScreen.storyboard */,
@@ -142,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9EE5A89120C81B9100FBF871 /* ViewController.m in Sources */,
+				9EE5A8A420C81CAF00FBF871 /* DMOne.m in Sources */,
 				9EE5A89C20C81B9200FBF871 /* main.m in Sources */,
 				9EE5A88E20C81B9100FBF871 /* AppDelegate.m in Sources */,
 			);
